@@ -11,8 +11,8 @@ This project depends on several Python libraries which can be installed using pi
   scikit-learn
   numpy
 # Setup Instructions
-1. Clone the Repository
-  git clone (https://github.com/OVRupesinghe/Intellihack_Devin2.0_02.git
+1. Clone the Repository<br>
+  git clone https://github.com/OVRupesinghe/Intellihack_Devin2.0_02.git<br>
 cd Intellihack_Devin2.0_02
 
 2. Install Required Libraries<br>
