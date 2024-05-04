@@ -12,7 +12,7 @@ This project depends on several Python libraries which can be installed using pi
   numpy
 # Setup Instructions
 1. Clone the Repository
-  git clone https://github.com/your-username/your-repository](https://github.com/OVRupesinghe/Intellihack_Devin2.0_02.git
+  git clone (https://github.com/OVRupesinghe/Intellihack_Devin2.0_02.git
 cd Intellihack_Devin2.0_02
 
 2. Install Required Libraries<br>
